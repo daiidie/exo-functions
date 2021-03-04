@@ -1,5 +1,5 @@
-const add = (var1) => {
+const tyPeof = (var1) => {
   return typeof(var1)
 }
-let result = add("d")
+let result = tyPeof(187)
 console.log(result)

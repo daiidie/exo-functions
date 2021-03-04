@@ -12,4 +12,4 @@ const showStars = (nbBase, reverse, char) => {
 
 const nbBase = 15
 
-showStars(nbBase, true, boum)
+showStars(nbBase, true, "boum")
