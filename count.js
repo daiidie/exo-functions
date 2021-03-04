@@ -4,4 +4,4 @@ const count = (min, max, step) => {
   }
   return(min)
 }
- console.log(count(0,100,5))
+ console.log(count(10,100,5))
