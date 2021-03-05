@@ -4,7 +4,7 @@ const reverseStr = (str) => {
 }
 
 const isPalindrome = (str) => {
-  return ( str1 === str ? true : false) 
+  return ( reverseStr(str) === str ? true : false) 
 }
 console.log(reverseStr("brulant"))
-console.log(isPalindrome("tnalurb"))
+console.log(isPalindrome("ete"))
